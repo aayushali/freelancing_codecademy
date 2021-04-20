@@ -1,0 +1,36 @@
+.top {
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+
+	background-image: url("file:///C:/Users/HP/Documents/github/images/pattern.webp");
+}
+
+
+
+.brush , .frame , .paint{
+	background-color: mediumspringgreen;
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+.frame {
+	background-color: lightcoral;
+}	
+
+.paint {
+	background-color: skyblue;
+
+}
+p , h2 {
+	font-family: Helvetica;
+}
+#cost {
+	font-weight: bold;
+	color: blue;
+
+}
